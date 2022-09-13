@@ -24,3 +24,9 @@ print ("3 multiplicacao")
 
 print ("4 divisao")
 
+bola = input()
+
+s = input ("escolha um numeron ")
+x = input ("escolhe outro numero ")
+
+
